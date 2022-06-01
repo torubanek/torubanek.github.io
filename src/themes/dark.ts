@@ -1,7 +1,7 @@
 export default {
   hero: {
     background: {
-      image: "./images/falcon-dark-minus-50-brightness.png",
+      image: "./images/koenigsegg-dark.png",
     }
   },
   color: {
