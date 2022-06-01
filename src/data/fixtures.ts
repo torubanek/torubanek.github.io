@@ -22,7 +22,7 @@ export default {
           }
         },
         images: [
-          "./images/corpusconnect.png",
+          "/images/corpusconnect.png",
         ]
       },
 
