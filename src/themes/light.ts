@@ -1,7 +1,7 @@
 export default {
   hero: {
     background: {
-      image: "./images/falcon-light-plus-50-shadow.png",
+      image: "./images/koenigsegg.png",
     }
   },
   color: {
