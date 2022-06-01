@@ -31,12 +31,20 @@ export default {
     minor: [
       {
         name: "Adams Drapery & Upholstery",
-        description: "Local furniture renovation and creation.",
+        description: "Local furniture renovation company website.",
         link: {
           name: "View",
           url: "https://adamsdrapery.github.io"
         }
       },
+      {
+        name: "The Barbados Light & Power Co. Ltd.",
+        description: "Local utilities company website.",
+        link: {
+          name: "View",
+          url: "https://www.blpc.com.bb/"
+        }
+      }
     ]
   },
   logoSection: {
