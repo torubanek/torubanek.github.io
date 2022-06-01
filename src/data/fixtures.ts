@@ -12,7 +12,7 @@ export default {
         medium: "Bootstrap · JavaScript",
         summary: "Risk-Free Business Advertising Growth",
         copy: [
-          "We excel in crafting highly optimized ad campaigns which generate high-quality leads, who ultimately develop into paying customers."
+          "We excel in crafting optimized ad campaigns which generate high-quality leads, who develop into paying customers."
         ],
         links: {
           color: "#363636",
