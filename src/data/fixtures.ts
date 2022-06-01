@@ -1,94 +1,71 @@
 export default {
   author: "Terico Adamson",
   hero: {
-    subtitle: "Software engineer at Cash App.",
-    description: "Building reliable and scalable systems by day. Leveraging technology to launch fully featured products by night.",
-    cta: "Browse Products",
+    subtitle: "Web Developer & UX Designer",
+    description: "Developing beautiful projects for the creative mind.",
+    cta: "View Projects",
   },
   products: {
     featured: [
       {
-        name: "DoubleText",
-        medium: "React · GraphQL · Golang",
-        summary: "The #1 Facebook Messenger analyzer.",
+        name: "CorpusConnect",
+        medium: "Bootstrap · JavaScript",
+        summary: "Risk-Free Business Advertising Growth",
         copy: [
-          "See millions of messages at a glance, without data leaving your computer."
+          "We excel in crafting highly optimized ad campaigns which generate high-quality leads, who ultimately develop into paying customers."
         ],
         links: {
           color: "#363636",
           primary: {
             name: "Discover",
-            url: "https://doubletext.me/"
+            url: "https://corpusconnect.com"
           }
         },
         images: [
-          "/doubletext/0.jpg",
-          "/doubletext/1.jpg",
-          "/doubletext/2.jpg",
-          "/doubletext/3.jpg",
-          "/doubletext/4.jpg"
+          "/corpusconnect.png",
         ]
       },
-      {
-        name: "ClimbList",
-        medium: "React · Next.js",
-        summary: "Construction is now in progress.",
-        copy: [
-          "Compare and track grades and pricing between gyms around the country.",
-        ],
-        links: {
-          color: "#363636",
-          primary: {
-            name: "Learn more",
-            url: "https://climblist.com/"
-          }
-        },
-        images: [
-          "/climblist/0.jpg",
-          "/climblist/1.jpg",
-        ]
-      }
+
     ],
-    // Only supports 0-3 at the moment
+
     minor: [
       {
         name: "Volunteer Portal",
         description: "Find and track volunteer opportunities.",
         link: {
-          name: "Github",
-          url: "https://github.com/zendesk/volunteer_portal"
+          name: "View",
+          url: "#"
         }
       },
       {
         name: "Final Slash VR",
         description: "Short survival experience on an abandoned planet.",
         link: {
-          name: "Download",
-          url: "https://samzx.itch.io/final-slash-vr"
+          name: "View",
+          url: "#"
         }
       },
       {
         name: "MPH Watch",
         description: "Stats for miners mining on Mining Pool Hub.",
         link: {
-          name: "Demo",
-          url: "https://mphwatch.samxie.net/demo"
+          name: "View",
+          url: "#"
         }
       }
     ]
   },
   logoSection: {
     title: "As hired by",
-    // Only supports 0-3 at the moment
     logos: [
       {
-        src: "/logos/unimelb.svg",
-        url: "https://unimelb.edu.au/",
-        alt: "Unimelb"
+        src: "./logos/blpc.png",
+        url: "https://www.blpc.com.bb/",
+        alt: "The Barbados Light & Power Co. Ltd."
       },
       {
-        src: "/logos/zendesk.svg",
-        url: "https://www.zendesk.com/",
+        src: "./logos/tapp.png",
+        url: "https://www.tapp.media",
         alt: "Zendesk"
       },
       {
@@ -99,31 +76,21 @@ export default {
   ]
   },
   footer: {
-    tagline: "Sam Xie — Melbourne, Australia",
+    tagline: "Terico Adamson — Bridgetown, Barbados",
     links: [
       {
-        name: "Twitter",
-        url: "https://twitter.com/samxstudio",
-        fa: "fab fa-twitter" // Code from: https://fontawesome.com/v5/icons/twitter?s=brands
-      },
-      {
-        name: "Medium",
-        url: "https://medium.com/@samxie",
-        fa: "fab fa-medium"
-      },
-      {
         name: "Github",
-        url: "https://github.com/samzx",
+        url: "https://github.com/torubanek",
         fa: "fab fa-github"
       },
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/xiesam/",
+        url: "https://www.linkedin.com/in/terico",
         fa: "fab fa-linkedin"
       },
       {
         name: "Email",
-        url: "mailto:contact@samxie.net",
+        url: "mailto:terico@outlook.com",
         fa: "fa fa-envelope"
       },
     ]
