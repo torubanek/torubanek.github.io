@@ -30,29 +30,13 @@ export default {
 
     minor: [
       {
-        name: "Volunteer Portal",
-        description: "Find and track volunteer opportunities.",
+        name: "Adams Drapery & Upholstery",
+        description: "Local furniture renovation and creation.",
         link: {
           name: "View",
-          url: "#"
+          url: "https://adamsdrapery.github.io"
         }
       },
-      {
-        name: "Final Slash VR",
-        description: "Short survival experience on an abandoned planet.",
-        link: {
-          name: "View",
-          url: "#"
-        }
-      },
-      {
-        name: "MPH Watch",
-        description: "Stats for miners mining on Mining Pool Hub.",
-        link: {
-          name: "View",
-          url: "#"
-        }
-      }
     ]
   },
   logoSection: {
@@ -66,12 +50,12 @@ export default {
       {
         src: "./logos/tapp.png",
         url: "https://www.tapp.media",
-        alt: "Zendesk"
+        alt: "TAPP New Media"
       },
       {
-        src: "/logos/cashapp.svg",
-        url: "https://cash.app/",
-        alt: "Cash App"
+        src: "/logos/corpusconnect.png",
+        url: "https://corpusconnect.com",
+        alt: "CorpusConnect"
       }
   ]
   },
