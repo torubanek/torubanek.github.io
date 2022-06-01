@@ -1,5 +1,5 @@
 export default {
-  author: "Sam Xie",
+  author: "Terico Adamson",
   hero: {
     subtitle: "Software engineer at Cash App.",
     description: "Building reliable and scalable systems by day. Leveraging technology to launch fully featured products by night.",
