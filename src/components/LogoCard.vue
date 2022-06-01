@@ -21,7 +21,7 @@ const StyledA = styled.a`
 
 const Card = styled.div`
   height: 2rem;
-  width: 4rem;
+  width: 10rem;
   flex: 1;
   display: flex;
   justify-content: space-between;
