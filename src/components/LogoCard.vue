@@ -32,12 +32,6 @@ const Card = styled.div`
   border-radius: 20px;
   padding: 2rem 2.66rem;
   position: relative;
-  /* Can't transition radial gradients */
-  /* transition: 0.3s background; */
-
-  /* Disabled for performance issues */
-  /* backdrop-filter: blur(10px); */
-
   display: block;
   transform: translateY(0px);
   transition: 0.3s transform ease-out, 0.3s filter ease-out;
