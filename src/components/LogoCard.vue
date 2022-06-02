@@ -24,7 +24,7 @@ const Card = styled.div`
   width: 10rem;
   flex: 1;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-direction: column;
   background: ${({theme}) => theme.card.background};
   /* background: radial-gradient(118.99% 670.46% at -7.06% -9.5%, #FFFFFF 0%, #F1F1F1 100%); */
