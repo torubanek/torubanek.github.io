@@ -30,7 +30,7 @@ export default {
 
     minor: [
       {
-        name: "Barbados Light & Power",
+        name: "The Barbados Light & Power Co. Ltd.",
         description: "Large utilities company website.",
         link: {
           name: "View",

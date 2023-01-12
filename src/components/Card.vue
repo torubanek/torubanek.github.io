@@ -50,23 +50,23 @@ import { Subtitle, Paragraph, MainTitle, ButtonText } from './styles/Text.ts'
 
 const Card = styled.div`
   width: ${({theme}) => theme.screen.width.desktop}px;
+  height: 500px;
   background: ${({theme}) => theme.card.background};
   box-shadow: ${({theme}) => theme.card.boxShadow};
   border-radius: 20px;
   margin: auto;
   margin-bottom: 80px;
-  /* Can't transition radial gradients */
-  /* transition: 0.3s background; */
-  @media screen and (max-width: ${({theme}) => theme.screen.width.desktop}px) {
+  @media screen and (max-width: ${({theme}) => theme.screen.width.desktop}px) 
+  {
     width: ${({theme}) => theme.screen.width.tablet}px;
     margin-bottom: 40px;
   }
-  @media screen and (max-width: ${({theme}) => theme.screen.width.tablet}px) {
+
+  @media screen and (max-width: ${({theme}) => theme.screen.width.tablet}px) 
+  {
     width: ${({theme}) => theme.screen.width.mobile}px;
     margin-bottom: 40px;
   }
-  /* Disabled for performance issues */
-  /* backdrop-filter: blur(10px); */
 `
 
 const Contents = styled.div`
