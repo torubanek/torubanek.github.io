@@ -44,6 +44,14 @@ export default {
           name: "View",
           url: "https://adamsdrapery.github.io"
         }
+      },
+      {
+        name: "Adams Drapery & Upholstery",
+        description: "Website for local furniture renovation company.",
+        link: {
+          name: "View",
+          url: "https://adamsdrapery.github.io"
+        }
       }
     ]
   },
