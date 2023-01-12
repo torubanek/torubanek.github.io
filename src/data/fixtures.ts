@@ -1,8 +1,8 @@
 export default {
   author: "Terico Adamson",
   hero: {
-    subtitle: "Web Developer & UX Designer",
-    description: "Developing beautiful projects for the creative mind.",
+    subtitle: "Professional Web Developer & Designer",
+    description: "Developing beautiful projects for the creative and ambitious mind.",
     cta: "View Projects",
   },
   products: {
@@ -10,14 +10,14 @@ export default {
       {
         name: "CorpusConnect",
         medium: "Bootstrap · JavaScript",
-        summary: "Risk-Free Business Advertising Growth",
+        summary: "Lead Generation Website with Call-to-Action",
         copy: [
-          "We excel in crafting optimized ad campaigns which generate high-quality leads, who develop into paying customers."
+          "This website was developed for a local digital marketing agency that specializes in creating advertisment campaigns for its clients."
         ],
         links: {
           color: "#363636",
           primary: {
-            name: "Discover",
+            name: "View Website",
             url: "https://corpusconnect.com"
           }
         },
