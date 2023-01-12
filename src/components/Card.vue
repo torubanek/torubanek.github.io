@@ -158,12 +158,6 @@ const CarouselImage = styled.img`
   object-fit: cover;
   object-position: top;
   opacity: ${({theme}) => theme.card.carousel.opacity}
-  &:hover {
-    cursor: grab;
-  }
-  &:active {
-    cursor:grabbing;
-  }
 `
 
 const CarouselContainer = styled.div`
