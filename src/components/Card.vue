@@ -50,7 +50,6 @@ import { Subtitle, Paragraph, MainTitle, ButtonText } from './styles/Text.ts'
 
 const Card = styled.div`
   width: ${({theme}) => theme.screen.width.desktop}px;
-  height: 500px;
   background: ${({theme}) => theme.card.background};
   box-shadow: ${({theme}) => theme.card.boxShadow};
   border-radius: 20px;
@@ -125,6 +124,7 @@ export const StyledButton = styled('a', btnProps)`
   padding: 0.75rem 1.5rem;
   font-weight: bold;
   margin-right: 20px;
+  margin-top: 20px;
   border-radius: 24px;
   line-height: 40px;
   color: ${(props) => props.primary ? "#eee" : props.secondary ? props.theme.card.button.text : 'black'};

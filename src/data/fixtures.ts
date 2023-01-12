@@ -31,7 +31,7 @@ export default {
     minor: [
       {
         name: "The Barbados Light & Power Co. Ltd.",
-        description: "Large utilities company website.",
+        description: "Largest local utilities company website.",
         link: {
           name: "View",
           url: "https://www.blpc.com.bb/"
@@ -47,7 +47,7 @@ export default {
       },
       {
         name: "Adams Drapery & Upholstery",
-        description: "Website for local furniture renovation company.",
+        description: "Local furniture renovation website.",
         link: {
           name: "View",
           url: "https://adamsdrapery.github.io"
