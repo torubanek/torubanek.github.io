@@ -22,7 +22,7 @@ export default {
           }
         },
         images: [
-          "/images/corpusconnect.png",
+          "/images/CorpusConnect/1.png","/images/CorpusConnect/2.png","/images/CorpusConnect/3.png"
         ]
       },
 
@@ -30,19 +30,19 @@ export default {
 
     minor: [
       {
-        name: "The Barbados Light & Power Co. Ltd.",
-        description: "Website for largest utilities company in the country.",
+        name: "Barbados Light & Power",
+        description: "Large utilities company website.",
         link: {
           name: "View",
           url: "https://www.blpc.com.bb/"
         }
       },
       {
-        name: "Adams Drapery & Upholstery",
-        description: "Website for local furniture renovation company.",
+        name: "National Transformation Initiative",
+        description: "Barbadian training and upskilling website.",
         link: {
           name: "View",
-          url: "https://adamsdrapery.github.io"
+          url: "https://nti.org.bb"
         }
       },
       {

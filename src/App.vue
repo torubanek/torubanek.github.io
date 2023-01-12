@@ -37,7 +37,7 @@
       </logo-section-container>
     </card-container>
     <foot v-bind:author="author" v-bind:footer="footer" />
-    <light-toggle v-on:click="toggleTheme()"><span v-if="!isDark" >💡</span><span v-if="isDark">💡</span></light-toggle>
+    <light-toggle v-on:click="toggleTheme()"><span v-if="!isDark" >🌘</span><span v-if="isDark">💡</span></light-toggle>
   </theme-provider>
 </template>
 
