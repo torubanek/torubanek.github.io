@@ -48,7 +48,7 @@ export default {
     ]
   },
   logoSection: {
-    title: "As hired by",
+    title: "Hired By",
     logos: [
       {
         src: "./logos/blpc.png",
