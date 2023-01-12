@@ -16,7 +16,7 @@ import { Paragraph, ButtonText } from './styles/Text.ts'
 
 const Card = styled.div`
   /* width: 100px; */
-  height: 200px;
+  height: 300px;
   flex: 1;
   display: flex;
   justify-content: space-between;
